@@ -3,8 +3,7 @@
 In this video, I'm going to show you how to embed a navigation menu into your streamlit app.
 
 ## Tutorial
-Will follow soon...
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/hEPoto5xp3k/0.jpg)](https://youtu.be/hEPoto5xp3k)
 
 ## Further Links
  - streamlit-option-menu repo: https://github.com/victoryhb/streamlit-option-menu
