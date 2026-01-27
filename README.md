@@ -9,8 +9,6 @@ In this video, I'm going to show you how to embed a navigation menu into your st
  - streamlit-option-menu repo: https://github.com/victoryhb/streamlit-option-menu
  - Bootstrap Icons: https://icons.getbootstrap.com/
 
-
-
 ## More Solutions
 Explore my tools and templates for Excel, automation, and more.
 
@@ -20,11 +18,7 @@ Explore my tools and templates for Excel, automation, and more.
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in Touch](https://pythonandvba.com/contact)
-## ☕ Support 
-If you appreciate the project and wish to encourage its continued development, consider [supporting my work](https://pythonandvba.com/coffee-donation).
+## Support
+If you find this project helpful, consider buying me a coffee. 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
-## Feedback & Collaboration
-For feedback, suggestions, or potential collaboration opportunities, reach out at contact@pythonandvba.com.
-![Logo](https://www.pythonandvba.com/banner-img)
-
